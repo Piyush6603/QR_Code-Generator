@@ -6,6 +6,8 @@ Welcome to the QR Code Generator repository! This Python tool empowers you to cr
 
 A QR code (Quick Response code) is a two-dimensional barcode that can be scanned by smartphones and other devices equipped with a camera. It can contain various types of information, such as URLs, text, contact information, and more.
 
+![Screenshot 2023-08-27 125523](https://github.com/Piyush6603/QR_Code-Generator/assets/101010704/b6d95435-b580-4ac7-b278-206acb796310)
+
 ## How to Use 📝
 
 1. 📥 Clone the repository to your local machine.
